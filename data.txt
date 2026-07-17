@@ -1,1 +1,1 @@
-commit_index: 57
+commit_index: 58
