@@ -1,1 +1,1 @@
-commit_index: 24
+commit_index: 25
