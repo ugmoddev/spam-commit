@@ -1,1 +1,1 @@
-commit_index: 6058
+commit_index: 6059
